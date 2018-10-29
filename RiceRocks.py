@@ -1,3 +1,5 @@
+# Direct access via this link http://www.codeskulptor.org/#user45_aqTW3yHEWJAU8ET.py
+
 # program template for Spaceship
 import simplegui
 import math
